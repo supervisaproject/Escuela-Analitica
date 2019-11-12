@@ -20,13 +20,13 @@ x = fruits.count("cherry")
 print(x)
 
 #ordenar una lista
-#ordenar decreciente
+#ordenar creciente
 
 x = [4, 6, 3, -5]
 x.sort()
 print(x)
 
-#ordenar creciente
+#ordenar decreciente
 
 x = [4, 6, 3, -5]
 x.sort(reverse = True)
