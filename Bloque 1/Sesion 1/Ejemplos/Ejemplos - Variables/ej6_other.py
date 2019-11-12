@@ -20,7 +20,7 @@ z = float("3")   # z will be 3.0
 w = float("4.2") # w will be 4.2
 print(x)
 print(y)
-print(z)
+print(w)
 
 #cadenas
 x = str("s1") # x will be 's1'
