@@ -6,3 +6,9 @@ def my_function(food):
 fruits = ["apple", "banana", "cherry"]
 
 my_function(fruits)
+
+def my_funcion_2(parametro_1, parametro_2):
+  resultado = parametro_1/parametro_2
+  print(resultado)
+
+my_funcion_2(6, 4)  
