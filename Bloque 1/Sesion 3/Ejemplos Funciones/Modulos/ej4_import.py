@@ -1,7 +1,7 @@
-import nuestra_libreria
+import nuestro_modulo
 
 
 importes = [10,20,30]
-resultado = nuestra_libreria.media(importes)
+resultado = nuestro_modulo.media(importes)
 
 print(resultado)
