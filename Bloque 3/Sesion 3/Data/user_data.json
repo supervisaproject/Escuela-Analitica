@@ -20,6 +20,28 @@
          "state": "CA",  
          "postalCode": "201043"       
      }
+    }, 
+    {
+        "firstName": "Rocky",   
+        "lastName": "Jaiswal",   
+        "age": 47,  
+        "address" : {  
+            "streetAddress": "Plot-6, Mohan Nagar",  
+            "city": "Ghaziabad",  
+            "state": "UP",  
+            "postalCode": "201007"  
+        }
+    },
+    {
+        "firstName": "Raul",   
+        "lastName": "Rick",   
+        "age": 55,  
+        "address" : {  
+            "streetAddress": "Colon",  
+            "city": "San Francisco",  
+            "state": "CA",  
+            "postalCode": "201043"       
+        }
     } 
     ]    
  }  
