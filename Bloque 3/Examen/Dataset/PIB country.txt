@@ -1,0 +1,217 @@
+﻿Country	Recent Year	Recent Value
+Afghanistan	2018	520.9
+Algeria	2018	4,114.7
+American Samoa	2018	11,466.7
+Andorra	2018	42,029.8
+Angola	2018	3,432.4
+Antigua and Barbuda	2018	16,727.0
+Argentina	2018	11,683.9
+Armenia	2018	4,212.1
+Aruba	2017	25,630.3
+Australia	2018	57,373.7
+Austria	2018	51,462.0
+Azerbaijan	2018	4,721.2
+Bahamas, The	2018	32,217.9
+Bahrain	2018	24,050.8
+Bangladesh	2018	1,698.3
+Barbados	2018	17,949.3
+Belarus	2018	6,289.9
+Belgium	2018	47,518.6
+Belize	2018	4,884.7
+Benin	2018	901.5
+Bermuda	2013	85,748.1
+Bhutan	2018	3,243.2
+Bolivia	2018	3,548.6
+Bosnia and Herzegovina	2018	6,065.7
+Botswana	2018	8,258.6
+Brazil	2018	8,920.8
+British Virgin Islands		
+Brunei Darussalam	2018	31,628.3
+Bulgaria	2018	9,272.6
+Burkina Faso	2018	715.1
+Burundi	2018	271.8
+Cabo Verde	2018	3,635.4
+Cambodia	2018	1,510.3
+Cameroon	2018	1,533.7
+Canada	2018	46,233.0
+Cayman Islands	2017	81,124.5
+Central African Republic	2018	475.7
+Chad	2018	728.3
+Channel Islands	2007	74,462.6
+Chile	2018	15,923.4
+China	2018	9,770.8
+Colombia	2018	6,667.8
+Comoros	2018	1,415.3
+Congo, Dem. Rep.	2018	561.8
+Congo, Rep.	2018	2,147.8
+Costa Rica	2018	12,027.4
+Cote d'Ivoire	2018	1,715.5
+Croatia	2018	14,909.7
+Cuba	2018	8,821.8
+Curacao	2018	19,567.9
+Cyprus	2018	28,159.3
+Czech Republic	2018	23,078.6
+Denmark	2018	61,350.3
+Djibouti	2018	3,082.5
+Dominica	2018	7,691.3
+Dominican Republic	2018	8,050.6
+Ecuador	2018	6,344.9
+Egypt, Arab Rep.	2018	2,549.1
+El Salvador	2018	4,058.3
+Equatorial Guinea	2018	10,261.8
+Eritrea	2011	811.4
+Estonia	2018	23,266.3
+Eswatini	2018	4,146.0
+Ethiopia	2018	772.3
+Faroe Islands	2016	55,822.9
+Fiji	2018	6,267.0
+Finland	2018	50,152.3
+France	2018	41,463.6
+French Polynesia	2000	14,323.8
+Gabon	2018	7,952.5
+Gambia, The	2018	716.1
+Georgia	2018	4,717.1
+Germany	2018	47,603.0
+Ghana	2018	2,202.3
+Gibraltar		
+Greece	2018	20,324.3
+Greenland	2016	48,181.9
+Grenada	2018	10,640.5
+Guam	2018	35,712.6
+Guatemala	2018	4,549.0
+Guinea	2018	878.6
+Guinea-Bissau	2018	778.0
+Guyana	2018	4,979.0
+Haiti	2018	868.3
+Honduras	2018	2,500.1
+Hong Kong SAR, China	2018	48,675.6
+Hungary	2018	16,162.0
+Iceland	2018	73,191.1
+India	2018	2,010.0
+Indonesia	2018	3,893.6
+Iran, Islamic Rep.	2017	5,627.7
+Iraq	2018	5,834.2
+Ireland	2018	78,806.4
+Isle of Man	2017	80,989.2
+Israel	2018	41,715.0
+Italy	2018	34,483.2
+Jamaica	2018	5,354.2
+Japan	2018	39,290.0
+Jordan	2018	4,241.8
+Kazakhstan	2018	9,812.6
+Kenya	2018	1,710.5
+Kiribati	2018	1,625.3
+Korea, Dem. People�s Rep.		
+Korea, Rep.	2018	31,362.8
+Kosovo	2018	4,302.3
+Kuwait	2018	33,994.4
+Kyrgyz Republic	2018	1,281.4
+Lao PDR	2018	2,542.5
+Latvia	2018	17,860.6
+Lebanon	2018	8,269.8
+Lesotho	2018	1,299.2
+Liberia	2018	677.3
+Libya	2018	7,241.7
+Liechtenstein	2016	165,028.2
+Lithuania	2018	19,153.4
+Luxembourg	2018	116,639.9
+Macao SAR, China	2018	87,208.5
+Madagascar	2018	527.5
+Malawi	2018	389.4
+Malaysia	2018	11,373.2
+Maldives	2018	10,330.6
+Mali	2018	899.7
+Malta	2018	30,098.3
+Marshall Islands	2018	3,788.2
+Mauritania	2018	1,188.8
+Mauritius	2018	11,238.7
+Mexico	2018	9,673.4
+Micronesia, Fed. Sts.	2018	3,568.3
+Moldova	2018	3,227.3
+Monaco	2018	185,741.3
+Mongolia	2018	4,121.7
+Montenegro	2018	8,844.2
+Morocco	2018	3,237.9
+Mozambique	2018	499.0
+Myanmar	2018	1,326.0
+Namibia	2018	5,931.5
+Nauru	2018	9,888.9
+Nepal	2018	1,033.9
+Netherlands	2018	53,024.1
+New Caledonia	2000	12,579.6
+New Zealand	2018	41,945.3
+Nicaragua	2018	2,028.9
+Niger	2018	414.0
+Nigeria	2018	2,028.2
+North Macedonia	2018	6,083.7
+Northern Mariana Islands	2018	23,258.7
+Norway	2018	81,697.2
+Oman	2018	16,415.2
+Pakistan	2018	1,482.4
+Palau	2018	15,859.4
+Panama	2018	15,575.1
+Papua New Guinea	2018	2,730.3
+Paraguay	2018	5,821.8
+Peru	2018	6,941.2
+Philippines	2018	3,102.7
+Poland	2018	15,420.9
+Portugal	2018	23,407.9
+Puerto Rico	2018	31,651.3
+Qatar	2018	68,793.8
+Romania	2018	12,301.2
+Russian Federation	2018	11,288.9
+Rwanda	2018	772.9
+Samoa	2018	4,183.4
+San Marino	2017	48,494.6
+Sao Tome and Principe	2018	2,001.1
+Saudi Arabia	2018	23,339.0
+Senegal	2018	1,522.0
+Serbia	2018	7,246.7
+Seychelles	2018	16,433.9
+Sierra Leone	2018	534.0
+Singapore	2018	64,581.9
+Sint Maarten (Dutch part)		
+Slovak Republic	2018	19,442.7
+Slovenia	2018	26,124.0
+Solomon Islands	2018	2,137.7
+Somalia	2018	314.5
+South Africa	2018	6,374.0
+South Sudan	2015	1,119.7
+Spain	2018	30,370.9
+Sri Lanka	2018	4,102.5
+St. Kitts and Nevis	2018	19,275.4
+St. Lucia	2018	10,566.0
+St. Martin (French part)		
+St. Vincent and the Grenadines	2018	7,361.4
+Sudan	2018	977.3
+Suriname	2018	6,234.0
+Sweden	2018	54,608.4
+Switzerland	2018	82,796.5
+Syrian Arab Republic	2007	2,032.6
+Tajikistan	2018	826.6
+Tanzania	2018	1,050.7
+Thailand	2018	7,273.6
+Timor-Leste	2018	2,035.5
+Togo	2018	679.3
+Tonga	2018	4,364.0
+Trinidad and Tobago	2018	17,129.9
+Tunisia	2018	3,447.5
+Turkey	2018	9,370.2
+Turkmenistan	2018	6,966.6
+Turks and Caicos Islands	2018	27,142.2
+Tuvalu	2018	3,700.7
+Uganda	2018	642.8
+Ukraine	2018	3,095.2
+United Arab Emirates	2018	43,005.0
+United Kingdom	2018	42,943.9
+United States	2018	62,794.6
+Uruguay	2018	17,278.0
+Uzbekistan	2018	1,532.4
+Vanuatu	2018	3,123.9
+Venezuela, RB	2014	16,054.5
+Vietnam	2018	2,566.6
+Virgin Islands (U.S.)	2017	35,938.0
+West Bank and Gaza	2018	3,198.9
+Yemen, Rep.	2018	944.4
+Zambia	2018	1,539.9
+Zimbabwe	2018	2,147.0
