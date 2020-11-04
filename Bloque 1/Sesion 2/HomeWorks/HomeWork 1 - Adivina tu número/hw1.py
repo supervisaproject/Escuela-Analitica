@@ -1,6 +1,7 @@
 #este codigo no esta funcionando bien
 #corrige los "print" para que sean los correctos 
-
+#this code is not working well
+# correct the "print" to be correct
 
 print("Piense un número de 1 a 4.")
 print("Conteste S (sí) o N (no) a mis preguntas.")
