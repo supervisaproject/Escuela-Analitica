@@ -4,7 +4,6 @@
 #Comprobacion acceso por edad al contenido B
 edad = int(raw_input("Escriba su edad: "))
 nombre = raw_input("Escriba su nombre: ")
-age = 23
 if nombre == "Juan" and edad >= 18:
     print ("Ha accedido correctamente al contenido 'A'")
 

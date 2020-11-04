@@ -2,7 +2,7 @@
 #Ejercicio combinado
 #Completa el código para conseguir que se muestre el mensaje correcto dependiendo de si la fruta esta o no en el listado de frutas del supermercado.
 
-fruta = input("Escribe la fruta a consultar en el listado:")
+fruta = raw_input("Escribe la fruta a consultar en el listado:")
 count = 0
 listado_frutas_mercado = ["limon", "naranja", "banana", "uvas", "papaya", "aguacate", "kiwi", "manzana", "pera", "cereza", "mora"]
 
