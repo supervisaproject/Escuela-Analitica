@@ -6,9 +6,9 @@
 
 print("Piense un número de 1 a 4.")
 print("Conteste S (si) o N (no) a mis preguntas.")
-primera = input("¿El número pensado es mayor que 2? ")
+primera = raw_input("¿El número pensado es mayor que 2? ")
 if primera == "S":
-    segunda = input("¿El número pensado es mayor que 3? ")
+    segunda = raw_input("¿El número pensado es mayor que 3? ")
     if segunda == "S":
         #print 1
         print("El número pensado es 1.")
@@ -16,7 +16,7 @@ if primera == "S":
         #print 2
         print("El número pensado es 2")
 else:
-    segunda = input("¿El número pensado es mayor que 1? ")
+    segunda = raw_input("¿El número pensado es mayor que 1? ")
     if segunda != "S":
         #print 3
         print("El número pensado es 4.")

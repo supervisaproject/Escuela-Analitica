@@ -1,6 +1,6 @@
 # - *- coding: utf- 8 - *-
 #Ejemplo 1
-edad = int(input("Escriba su edad: "))
+edad = int(raw_input("Escriba su edad: "))
 
 #Comprobacion acceso por edad al contenido A
 if edad >= 18:
