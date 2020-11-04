@@ -1,4 +1,4 @@
-
+# - *- coding: utf- 8 - *-
     
 #Ejemplo 2
 #Comprobacion acceso por edad al contenido B

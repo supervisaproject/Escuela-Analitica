@@ -1,3 +1,4 @@
+# - *- coding: utf- 8 - *-
 #Ejemplo 7
  
 print("Número de participantes de los cuatro primeros trimestres")

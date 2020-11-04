@@ -1,3 +1,4 @@
+# - *- coding: utf- 8 - *-
 #ejercicio 4
 #sin modificar el listado de frutas crea un codigo que muestre el siguiente mensaje 
 #without modifying the fruit list, create a code that displays the following message

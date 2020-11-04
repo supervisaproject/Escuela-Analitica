@@ -1,3 +1,4 @@
+# - *- coding: utf- 8 - *-
 #cambia los textos para que se muestre el mensaje de acceder al contenido solo si es mayor de edad o es un menor que esta con sus padres
 
 

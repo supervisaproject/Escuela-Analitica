@@ -1,3 +1,4 @@
+# - *- coding: utf- 8 - *-
 #Ejercicio combinado
 #Completa el código para conseguir que se muestre el mensaje correcto dependiendo de si la fruta esta o no en el listado de frutas del supermercado.
 

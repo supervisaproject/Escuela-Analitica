@@ -1,4 +1,4 @@
-
+# - *- coding: utf- 8 - *-
 #Ejemplo 8
 #bucle while 1
 i = 1

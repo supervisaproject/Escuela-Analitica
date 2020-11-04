@@ -1,4 +1,4 @@
-   
+# - *- coding: utf- 8 - *-   
 #Ejemplo 3
 x = 3
 if x == 2:

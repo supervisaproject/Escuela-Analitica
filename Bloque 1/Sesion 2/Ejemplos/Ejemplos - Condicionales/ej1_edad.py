@@ -1,3 +1,4 @@
+# - *- coding: utf- 8 - *-
 #Ejemplo 1
 edad = int(input("Escriba su edad: "))
 
